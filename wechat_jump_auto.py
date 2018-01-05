@@ -27,7 +27,7 @@ except ImportError:
     exit(-1)
 
 
-VERSION = "1.1.1"
+VERSION = "1.1.2"
 
 
 debug_switch = False    # debug 开关，需要调试的时候请改为：True
